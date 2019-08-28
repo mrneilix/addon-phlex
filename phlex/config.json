@@ -24,7 +24,8 @@
   },
   "map": [
     "ssl",
-    "config"
+    "config",
+    "share:rw"
   ],
   "options": {
     "ssl": true,
